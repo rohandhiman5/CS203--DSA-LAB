@@ -1,3 +1,4 @@
+**HERE are the problems 
 Problems
 1. Harry gives Jenny an array of integers. Her challenge is to find an element
 of the array such that the sum of all elements to the left is equal to the
